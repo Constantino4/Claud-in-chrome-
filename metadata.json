@@ -1,0 +1,6 @@
+{
+  "name": "Morph Browser AI",
+  "description": "Navegador Android moderno com agente de inteligência artificial autônomo, navegação multiabas, ponte JavaScript segura e execução de tarefas web com confirmação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
